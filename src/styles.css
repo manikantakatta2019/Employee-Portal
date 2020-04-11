@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mat-drawer {
+    background-color:rgb(76, 146, 184) !important;
+    color: #E9EEEB !important;
+}
+.header-nav{
+    background-color:#31708F   !important ;
+}
+
+.table{
+    width: 80%;
+}
+
+.active {
+    background-color: rgb(27, 78, 104) !important;
+    color: white !important;
+    font-weight: bold!important;
+  }
+
+  .Heading{
+    padding-left: 20px;
+    padding-top: 10px;
+      color : black !important;
+  }
+
+  .mat-list-item:focus{
+      background: rgb(27, 78, 104) !important;
+  }
+
+
+  .action{
+      padding-left: 9px !important;
+      cursor: pointer !important;
+  }
+
+  .addDept{
+      background-color: #31708F !important;
+
+  }

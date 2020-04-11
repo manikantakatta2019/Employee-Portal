@@ -1,0 +1,26 @@
+<h3 class ="Heading">All Employees</h3>
+<hr>
+<table class="table table-bordered table-hover table-sm mt-3 ml-3">
+    <thead>
+      <tr >
+        <th scope="col">Employee ID</th>
+        <th scope="col">Employee Name</th>
+        <th scope="col">Department Name</th>
+        <th scope="col">Phone Number</th>
+
+
+      </tr>
+    </thead>
+    <tbody>
+        <ng-container  *ngFor="let emp of allEmployeeData">
+            <tr >
+                <td>{{emp.employeeCode}}</td>
+                <td>{{emp.preferredFullName}}</td>
+                <td>{{emp.jobTitleName}}</td>
+                <td>{{emp.phoneNumber}}</td>
+                 
+              </tr>
+        </ng-container>
+    
+    </tbody>
+  </table>

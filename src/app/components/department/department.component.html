@@ -1,0 +1,38 @@
+<h3 class="Heading">All Departments</h3>
+<hr>
+<div class="container">
+<div class="row">
+  <div class="col-md-8">
+
+  </div>
+  <div class="col-md-4">
+    <button mat-raised-button class="addDept" (click)="addDept()">Add Department</button>
+  </div>
+</div>
+</div>
+<table class="table table-bordered table-hover table-sm mt-3 ml-3">
+  <thead>
+    <tr>
+      <th scope="col">Department Name</th>
+      <th scope="col">Department Code</th>
+      <th scope="col">Employee Count</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let dept of departmentData; let i = index">
+      <td>{{dept.deptName}}</td>
+      <td>{{dept.deptCode}}</td>
+      <td [routerLink]="['/employee', dept.deptCode]"   routerLinkActive="active"  > <span style="cursor: pointer;">{{dept.empCount}}</span></td>
+      <td>
+        <span class="material-icons action" (click) = "editDept(dept,i)">
+          edit
+        </span>
+        <span class="material-icons action" (click) = "deleteDept(i)">
+          delete
+        </span>
+      </td>
+
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,28 @@
+{
+    "deptData": [
+      {
+        "deptId": "1",
+        "deptName": "HR",
+        "deptCode": "HR",
+        "empCount": 0
+      },
+      {
+        "deptId": "2",
+        "deptName": "IT SUPPORT",
+        "deptCode": "IT",
+        "empCount": 0
+      },
+      {
+        "deptId": "3",
+        "deptName": "DEVELOPMENT",
+        "deptCode": "DEV",
+        "empCount": 0
+      },
+      {
+        "deptId": "4",
+        "deptName": "QA",
+        "deptCode": "QA",
+        "empCount": 0
+      }
+    ]
+  }

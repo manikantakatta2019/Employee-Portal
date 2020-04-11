@@ -1,0 +1,244 @@
+{
+    "empData": [
+      {
+        "empId": "1",
+        "jobTitleName": "Developer",
+        "firstName": "Manikanta",
+        "lastName": "Katta",
+        "preferredFullName": "Manikanta Katta",
+        "employeeCode": "D100",
+        "deptCode": "DEV",
+        "phoneNumber": "9948115617"
+      },
+      {
+        "empId": "2",
+        "jobTitleName": "Developer",
+        "firstName": "Aadhya",
+        "lastName": "Indumathi",
+        "preferredFullName": "Aadhya Indumathi",
+        "employeeCode": "D101",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "3",
+        "jobTitleName": "Developer",
+        "firstName": "Inderpal",
+        "lastName": "Ila",
+        "preferredFullName": "Inderpal Ila",
+        "employeeCode": "D102",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "4",
+        "jobTitleName": "Developer",
+        "firstName": "Kali",
+        "lastName": "Kaur",
+        "preferredFullName": "Kali Kaur",
+        "employeeCode": "D103",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "5",
+        "jobTitleName": "Developer",
+        "firstName": "Lavanya",
+        "lastName": "Lina",
+        "preferredFullName": "Lavanya Lina",
+        "employeeCode": "D104",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "6",
+        "jobTitleName": "Developer",
+        "firstName": "Madhu",
+        "lastName": "Malati",
+        "preferredFullName": "Madhu Malati",
+        "employeeCode": "D105",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "7",
+        "jobTitleName": "IT SUPPORT",
+        "firstName": "Navdeep",
+        "lastName": "Mitra",
+        "preferredFullName": "Navdeep Mitra",
+        "employeeCode": "IT100",
+        "deptCode": "IT",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "8",
+        "jobTitleName": "IT SUPPORT",
+        "firstName": "Rajni",
+        "lastName": "Uma",
+        "preferredFullName": "Rajni Uma",
+        "employeeCode": "IT101",
+        "deptCode": "IT",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "9",
+        "jobTitleName": "HR",
+        "firstName": "Vaishnavi",
+        "lastName": "Uttara",
+        "preferredFullName": "Vaishnavi Uttara",
+        "employeeCode": "HR100",
+        "deptCode": "HR",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "10",
+        "jobTitleName": "HR",
+        "firstName": "Vasudha",
+        "lastName": "Veda",
+        "preferredFullName": "Vasudha Veda",
+        "employeeCode": "HR100",
+        "deptCode": "HR",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "11",
+        "jobTitleName": "QA",
+        "firstName": "Abhishek",
+        "lastName": "Bala",
+        "preferredFullName": "Abhishek Bala",
+        "employeeCode": "D100",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "12",
+        "jobTitleName": "QA",
+        "firstName": "Chandan",
+        "lastName": "Dev",
+        "preferredFullName": "Chandan Dev",
+        "employeeCode": "QA100",
+        "deptCode": "QA",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "13",
+        "jobTitleName": "QA",
+        "firstName": "Govinda",
+        "lastName": "Harsha",
+        "preferredFullName": "Govinda Harsha",
+        "employeeCode": "QA101",
+        "deptCode": "QA",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "14",
+        "jobTitleName": "QA",
+        "firstName": "Jaya",
+        "lastName": "Kishore",
+        "preferredFullName": "Jaya Kishore",
+        "employeeCode": "QA102",
+        "deptCode": "QA",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "15",
+        "jobTitleName": "QA",
+        "firstName": "Manish",
+        "lastName": "Manish",
+        "preferredFullName": "Manish Manish",
+        "employeeCode": "QA103",
+        "deptCode": "QA",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "16",
+        "jobTitleName": "Developer",
+        "firstName": "Mitul",
+        "lastName": "Nadim",
+        "preferredFullName": "Mitul Nadim",
+        "employeeCode": "D106",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "17",
+        "jobTitleName": "Developer",
+        "firstName": "Nikhil",
+        "lastName": "Nilam",
+        "preferredFullName": "Nikhil Nilam",
+        "employeeCode": "D107",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "18",
+        "jobTitleName": "Developer",
+        "firstName": "Pradip",
+        "lastName": "Pran",
+        "preferredFullName": "Pradip Pran",
+        "employeeCode": "D108",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "19",
+        "jobTitleName": "Developer",
+        "firstName": "Radha",
+        "lastName": "Krishna",
+        "preferredFullName": "Radha Krishna",
+        "employeeCode": "D109",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "20",
+        "jobTitleName": "Developer",
+        "firstName": "Ratna",
+        "lastName": "Kala",
+        "preferredFullName": "Ratna Kala",
+        "employeeCode": "D110",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "21",
+        "jobTitleName": "Developer",
+        "firstName": "Sandip",
+        "lastName": "Rana",
+        "preferredFullName": "Sandip Rana",
+        "employeeCode": "D111",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "22",
+        "jobTitleName": "Developer",
+        "firstName": "Vijay",
+        "lastName": "Sharma",
+        "preferredFullName": "Vijay Sharma",
+        "employeeCode": "D112",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "23",
+        "jobTitleName": "Developer",
+        "firstName": "Shashi",
+        "lastName": "Singh",
+        "preferredFullName": "Shashi Singh",
+        "employeeCode": "D113",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      },
+      {
+        "empId": "24",
+        "jobTitleName": "Developer",
+        "firstName": "Swapan",
+        "lastName": "buyya",
+        "preferredFullName": "Swapan buyya",
+        "employeeCode": "D114",
+        "deptCode": "DEV",
+        "phoneNumber": "408-1234567"
+      }
+    ]
+  }

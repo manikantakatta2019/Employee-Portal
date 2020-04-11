@@ -1,0 +1,24 @@
+
+ <mat-toolbar class="header-nav" >
+    <mat-toolbar-row>
+      <button mat-icon-button (click)="sidenav.toggle()" fxShow="true" >
+        <mat-icon>menu</mat-icon>
+      </button>
+      <span>Employee Portal</span>
+      <span class="menu-spacer"></span>
+    </mat-toolbar-row>
+  </mat-toolbar>
+
+  <mat-sidenav-container fxFlexFill class="menu-height" >
+    <mat-sidenav #sidenav mode="side" opened="true">
+      <mat-nav-list>
+        <a routerLink='/department' routerLinkActive="active" mat-list-item>Department</a>
+        <a [routerLink]="['/employee', 'All']" [routerLinkActive]="['active']" mat-list-item>Empolyee</a>
+      </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content fxFlexFill>
+<router-outlet></router-outlet>
+      
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+
